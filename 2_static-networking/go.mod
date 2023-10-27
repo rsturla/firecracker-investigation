@@ -1,4 +1,4 @@
-module github.com/rsturla/firecracker-investigation/1_basic-setup
+module github.com/rsturla/firecracker-investigation/2_static-networking
 
 go 1.20
 
